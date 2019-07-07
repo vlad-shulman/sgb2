@@ -1,0 +1,11 @@
+{
+"companyName": "fika.company",
+"productName": "fika.product",
+"dataUrl": "simmer test1.data.unityweb",
+"asmCodeUrl": "simmer test1.asm.code.unityweb",
+"asmMemoryUrl": "simmer test1.asm.memory.unityweb",
+"asmFrameworkUrl": "simmer test1.asm.framework.unityweb",
+"TOTAL_MEMORY": 536870912,
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
