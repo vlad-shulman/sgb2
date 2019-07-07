@@ -5,7 +5,7 @@
 "asmCodeUrl": "simmer test1.asm.code.unityweb",
 "asmMemoryUrl": "simmer test1.asm.memory.unityweb",
 "asmFrameworkUrl": "simmer test1.asm.framework.unityweb",
-"TOTAL_MEMORY": 536870912,
+"TOTAL_MEMORY": 16777216,
 "splashScreenStyle": "Dark",
 "backgroundColor": "#222C36"
 }
